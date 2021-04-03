@@ -14,7 +14,7 @@ import pyrebase
 
 # database configuration
 config = {
-    "apiKey": "AIzaSyDc_M-tK_fnAg_sT5-MXkSLzQxkafSgJeE",
+    "apiKey": "APIKEY",
     "authDomain": "raspi-surveillance-camera.firebaseapp.com",
     "databaseURL": "https.//raspi-surveillance-camera.firebaseio.com",
     "projectId": "raspi-surveillance-camera",
